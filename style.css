@@ -1,0 +1,16 @@
+body{
+    background-color: blueviolet;
+}
+.wrapper{
+    width: 960px;
+    background-color: aqua;
+    margin: auto;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+    background-color: brown;
+    padding: 15px;
+}
